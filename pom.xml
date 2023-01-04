@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>samsung_prod</finalName>
+		<finalName>samsung_webapp</finalName>
 		
 		<plugins>
 			<plugin>
