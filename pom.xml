@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://172.31.27.40:8081/repository/samsung_webapp-snapshot/</url>
+	      <url>http://http://http://54.158.91.207:8081/repository/samsung_webapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
